@@ -1,0 +1,1 @@
+This program was completed for a lettings agent I worked for in Headingley, UK. Each morning I would have to send a list of houseshares to professionals and students. This was a very repetitive task that lended itself to being completed by a computer instead.
