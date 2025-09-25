@@ -171,7 +171,3 @@ print (len(ProfessionalNewURLs))
 
 print ("Number of students messaged:")
 print (len(StudentNewURLs))
-
-
-#TO DO:
-#add in text docs - sort why password isn't working
